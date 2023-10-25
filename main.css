@@ -1,0 +1,8 @@
+.clr_change:hover{
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+.item-hover:hover{
+    background-color: rgb(49, 17, 80);
+}
